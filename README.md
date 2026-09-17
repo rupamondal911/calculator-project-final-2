@@ -1,2 +1,6 @@
-# calculator-project-final-2
-Calculator Project pushed via MCP Server
+# Calculator Project
+
+A simple calculator application pushed via GitHub MCP Server.
+
+Account: rupamondal911
+Repository: calculator-project-final-2
